@@ -15,4 +15,4 @@ https://docs.google.com/spreadsheets/d/1U5OsHJu56GQiKADOvGWnSScrB2EUza059LLjDFny
   + Tham gia buổi chia sẻ Kỹ năng phỏng vấn cơ bản
   + Tìm kiếm template
   + Thiết kế database
-  + V
+  + Vẽ mindmap module 2 
