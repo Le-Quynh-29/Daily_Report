@@ -16,3 +16,18 @@ https://docs.google.com/spreadsheets/d/1U5OsHJu56GQiKADOvGWnSScrB2EUza059LLjDFny
   + Tìm kiếm template
   + Thiết kế database
   + Vẽ mindmap module 2 
+# Ngày 25/02/2021
+### Hôm nay làm gì?
+  + Tham gia Seminar 3 Kỹ năng làm việc tại doanh nghiệp
+  + Tham gia buổi chia sẻ Kỹ năng phỏng vấn cơ bản
+  + Tìm kiếm template
+  + Thiết kế database
+  + Vẽ mindmap module 2 
+### Khó khăn gặp phải
+  + Mối quan hệ giữa các băng
+  + Tìm hiểu các trường trong bảng
+### Ngày mai làm gì?
+  + Tham gia Seminar 4 Developer Testing
+  + Tham gia buổi chia sẻ Kỹ năng phỏng vấn kỹ thuật
+  + Làm dự án cá nhân
+  + Ôn lại kiến thức 
